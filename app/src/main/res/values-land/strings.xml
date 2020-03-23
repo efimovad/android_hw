@@ -1,7 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">HW1</string>
     <string name="text">Sample text</string>
-    <string name="col_num">3</string>
     <string name="save">Save</string>
     <string name="add_elem">Add new item</string>
+    <string name="col_num">4</string>
 </resources>
