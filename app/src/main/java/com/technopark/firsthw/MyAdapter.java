@@ -27,7 +27,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyHolder> {
     public void updateWith(List<DataSource.MyData> newData) {
         datas.clear();
         datas.addAll(newData);
-        notifyDataSetChanged();
+        notifyItemInserted(datas.size()-1);
     }
 
     public void addItem() {
