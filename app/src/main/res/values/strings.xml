@@ -4,4 +4,5 @@
     <string name="col_num">3</string>
     <string name="save">Save</string>
     <string name="add_elem">Add new item</string>
+    <string name="back">Back</string>
 </resources>
